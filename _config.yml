@@ -3,7 +3,7 @@ title: "Ari's blog on Australian law and on Mandarin Chinese."
 author: "Ari Wigdorowitz"
 description: "I built this website in June 2019 using Jekyll and the 'papyrus' theme which can be found on github. Here you can find essays on law and philosophy. These essays were predominantly written during my time as an undergraduate student at Monash University. I also publish stories about my experiences learning Chinese (Mandarin) as well as the odd translation."
 keywords: "Philosophy, Law, Chinese, Language"
-biography: "My name is Ari and I am a law student at Monash University in Melbourne Australia. I learn Chinese (mandarin) in my spare time and occassionaly dabble in rudimentary front-end web development."
+biography: "My name is Ari and I am a law student at Monash University in Melbourne Australia. I learn Chinese (Mandarin) in my spare time and occassionaly dabble in rudimentary front-end web development."
 colophon: "© 2019"
 
 baseurl: "/papyrus"

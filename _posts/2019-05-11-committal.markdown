@@ -21,7 +21,7 @@ In Victoria the accused has a right to receive a ‘fair trial’ and this is a 
 
 <p style="text-align: center;"> II VICTORIA’s COMMITTAL SYSTEM <p>
 
-Generally before an indictable offence is tried in the superior courts, magistrates first establish whether there is a *prima facie* case against the accused to stand trial.   The jurisdiction is *sui generis* as magistrates in hearing committals do not act judicially and cannot hear indictable and summary matters together.  Committal proceedings are administrative checks on cases brought against those accused of indictable crimes, they are not acts of adjudication.  
+Generally before an indictable offence is tried in the superior courts, magistrates first establish whether there is a *prima facie* case against the accused to stand trial.   The jurisdiction is <em> sui generis <em/> as magistrates in hearing committals do not act judicially and cannot hear indictable and summary matters together.  Committal proceedings are administrative checks on cases brought against those accused of indictable crimes, they are not acts of adjudication.  
 
 The committal system is also the procedural equivalent of the ‘discovery’, ‘pleadings’ and ‘case management’ processes in civil law. A ‘hand-up’ brief must be served on the defendant at least 42 days before the committal mention hearing.  Hand-up briefs contain the charge-sheet, a summary of material facts and evidence the prosecution will rely on in making its case.  The committal mention hearing is the central case management hearing in committal proceedings.
 

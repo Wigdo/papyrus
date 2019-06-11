@@ -7,8 +7,9 @@ external-url:
 categories: Law
 ---
 
-If you would like to read this essay more comfortably in the pdf viewer of your choice, as well as see all footnotes and bibliographic entrees feel free to download a copy of this essay as in .pdf format [here](https://zh.scribd.com/document/412829758/The-Future-of-Victoria-s-Committal-System "Full text version").
+If you would like to read this essay more comfortably in the pdf viewer of your choice, as well as see all footnotes and bibliographic entrees feel free to download a copy of this essay [here](https://zh.scribd.com/document/412829758/The-Future-of-Victoria-s-Committal-System "Full text version").
 
+Click [here](https://wigdo.github.io/papyrus/) to return home.
 ----
 
 #  "Should Victoria maintain, abolish, replace or reform the present committal system?" #

@@ -1,10 +1,10 @@
 # Site settings
 title: "Ari's blog on Australian law and on Mandarin Chinese."
 author: "Ari Wigdorowitz"
-description: "I built this website in June 2019. Here you can find essays that I have written during my undergraduate years at Monash University. I also publish stories about my experiences learning Chinese."
-keywords: "Philosophy, Scala, Epistemology, Existentialism, Programming, Machine-Learning, Artificial Intelligence, Statistics, Probability, Puzzles"
-biography: "I am a law student at Monash University in Melbourne Australia and an avid Chinese language learner."
-colophon: "© 2019 my thanks goes to github for gratuitously hosting this webpage <a href='https://pages.github.com/'>Github Pages</a> thanks also goes to <a href='http://jekyllrb.com/'>Jekyll</a>."
+description: "I built this website in June 2019. Here you can find essays on law and philosophy. These essays were predominantly written during my time as an undergraduate student at Monash University. I also publish stories about my experiences learning Chinese (mandarin) as well as the odd translation."
+keywords: "Philosophy, Law, Chinese, Language"
+biography: "My name is Ari and I am a law student at Monash University in Melbourne Australia. I learn Chinese (mandarin) in my spare time and occassionaly dabble in rudimentary front-end web development."
+colophon: "© 2019"
 
 baseurl: "/papyrus"
 url: "http://hugosereno.eu"

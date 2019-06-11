@@ -70,4 +70,4 @@ Unlike in the United States where committals occur by grand jury, our system is 
 
 Our committal system should not be seen as a screening process by which indictments are filtered. Rather, our committal system should be seen as a procedure ensuring fairness for the accused. The accused must play his part properly without taking advantage of the benefits afforded to him.
 
-For bibliographic information and pinpoint references please refer to the .pdf version of this article.
+<p>For bibliographic information and pinpoint references please refer to the .pdf version of this article.</p>

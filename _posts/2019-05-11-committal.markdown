@@ -7,7 +7,7 @@ external-url:
 categories: Law
 ---
 
-If you would like to read this essay more comfortably in the pdf viewer of your choice, as well as see all footnotes and bibliographic entrees feel free to download a copy of this essay as in .pdf format.
+If you would like to read this essay more comfortably in the pdf viewer of your choice, as well as see all footnotes and bibliographic entrees feel free to download a copy of this essay as in .pdf format. [I'm an inline-style link with title](https://www.google.com "Google's Homepage") 
 
 ----
 

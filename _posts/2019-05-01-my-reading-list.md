@@ -9,6 +9,8 @@ categories: Chinese
 
 Here you can find the books I've read since starting this website, as well as what I'm currently reading. Each completed book is accompanied by a quick summary.
 
+Click [here](https://wigdo.github.io/papyrus/) to return home.
+
 ## Completed books ##
 *  《活着》 余华 - To Live by Yu Hua
 

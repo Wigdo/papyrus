@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Victoria's Committal system
+title: My Chinese learning story
 date: 2019-06-10 15:46
 comments: true
 external-url:
 categories: Chinese
 ---
 
-This is a post about Chinese language learning. 
+This is my Chinese learning story. 

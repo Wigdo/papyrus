@@ -41,7 +41,7 @@ In truth the prosecution has complete control over the prosecution of criminal c
 
 <p> Historically the prerogative use of <em> ex officio </em> indictments has been used by prosecutors for malicious and political ends.  The abuse of process was rectified by the Magna Carter of 1215.  Modern ex officio indictments are a statutory power with prerogative characteristics.  It is argued that prosecutors are highly independent, highly qualified professionals who are well equipped to decide who should be tried and on what basis.  This is undoubtedly true. Prosecutors are best equipped to identify on what basis which individuals should be indicted. For all intents and purposes it is the prosecution that prosecutes the accused. However, this is irrelevant in light of the real question in issue: </p>
 
- <p> <h3> A Should the Defendant Derive the Benefit of Committal Proceedings? </h3> </p>
+<p style="text-align: center;"> <h3> A Should the Defendant Derive the Benefit of Committal Proceedings? </h3> </p>
 
 The majority in <em> Barton v R </em> concluded that <em> ex officio </em> exceptions to committal proceedings are only justified on ‘strong and powerful grounds’.  The committal system was seen by the majority as providing such important protections to the accused that without them trials would generally be unfair.
 

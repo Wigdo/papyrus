@@ -1,5 +1,5 @@
 # Site settings
-title: "Ari's blog on Australian law, the Chinese language and philosophy"
+title: "Expat "
 author: "Ari Wigdorowitz"
 description: "I built this website in June 2019. Here you can find essays that I have written during my undergraduate years at Monash University. I also publish articles about China or the Chinese language."
 keywords: "Philosophy, Scala, Epistemology, Existentialism, Programming, Machine-Learning, Artificial Intelligence, Statistics, Probability, Puzzles"
@@ -10,7 +10,7 @@ baseurl: "/papyrus"
 url: "http://hugosereno.eu"
 
 twitter_username: Wigdo
-google-analytics: UA-69060-5
+google-analytics: UA-141809411-1
 
 simple_search: http://google.com/search
 markdown: kramdown

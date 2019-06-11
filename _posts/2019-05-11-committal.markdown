@@ -70,6 +70,4 @@ Unlike in the United States where committals occur by grand jury, our system is 
 
 Our committal system should not be seen as a screening process by which indictments are filtered. Rather, our committal system should be seen as a procedure ensuring fairness for the accused. The accused must play his part properly without taking advantage of the benefits afforded to him.
 
-<p>For bibliographic information and pinpoint references please refer to the [.pdf](https://zh.scribd.com/document/412829758/The-Future-of-Victoria-s-Committal-System "Full text version"). version of this article.</p>
-
-If you would like to read this essay more comfortably in the pdf viewer of your choice, as well as see all footnotes and bibliographic entrees feel free to download a copy of this essay [here](https://zh.scribd.com/document/412829758/The-Future-of-Victoria-s-Committal-System "Full text version").
+<p>For bibliographic information and pinpoint references please refer to the .pdf version of this article.</p>

@@ -16,7 +16,7 @@ Click [here](https://wigdo.github.io/papyrus/) to return home.
 
 <p style="text-align: center;"> I INTRODUCTION <p>
 
-In Victoria the accused has a right to receive a ‘fair trial’ and this is a fundamental element of our criminal justice system.  Procedure gives rise to fairness because it is an objective standard by which all are equally measured. Nevertheless, adherence to strict procedure can be problematic and can ‘make the administration of justice a solemn farce’.  This submission argues that Victoria’s committal system whilst imperfect does not make a farce of ‘fair’ justice.
+In Victoria the accused has a right to receive a ‘fair trial’ and this is a fundamental element of our criminal justice system.  Procedure gives rise to fairness because it is an objective standard by which all are equally measured. Nevertheless, adherence to strict procedure can be problematic and can ‘make the administration of justice a solemn farce’.  This paper argues that Victoria’s committal system whilst imperfect does not make a farce of ‘fair’ justice.
 
 <p style="text-align: center;"> II VICTORIA’s COMMITTAL SYSTEM <p>
 

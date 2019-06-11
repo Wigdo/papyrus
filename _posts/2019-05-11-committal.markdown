@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Future of Victoria's Committal system
+title: The Future of Victoria's Committal System
 date: 2019-06-10 15:46
 comments: true
 external-url:

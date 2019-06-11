@@ -13,7 +13,7 @@ Click [here](https://wigdo.github.io/papyrus/) to return home.
 ----
 
 #  "Should Victoria maintain, abolish, replace or reform the present committal system?" #
--This question was asked by the Victorian Law Reform Commission '[VLRC](https://www.lawreform.vic.gov.au/all-projects/committals)' which is due to deliver its report to the Victorian parliament 31 March 2020. The VLRC is currently seeking submissions on this question.
+-This question was asked by the Victorian Law Reform Commission '[VLRC](https://www.lawreform.vic.gov.au/all-projects/committals)' which is due to deliver its report on 'committal hearings' to the Victorian parliament 31 March 2020. The VLRC is currently seeking submissions on this question.
 
 <p style="text-align: center;"> I INTRODUCTION <p>
 

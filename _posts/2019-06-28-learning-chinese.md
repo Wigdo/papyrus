@@ -6,9 +6,6 @@ comments: true
 external-url:
 categories: Chinese
 ---
-Click [here](https://wigdo.github.io/papyrus/) to return home.
----
-
 I was out at a bar in the city attending a language exchange event called [Mundo Lingo](https://www.facebook.com/groups/ML.Melbourne.CBD/) and a doctor asked me; he said: "what does it take to learn Chinese?".
 
 <p> And I said, "remembering 10,000 of anything is hard, it's a wonder that so many Chinese people are literate". </p>
@@ -28,3 +25,6 @@ I was out at a bar in the city attending a language exchange event called [Mundo
 The number 10,000 comes from a professor at a Chinese university who told me that learning 10,000 characters should be the 'target' for anyone looking to master Chinese. It might be a case of trying to jump to the moon and landing on the cowshed. In any case this short dialogue might give you some small understanding of the difficulties involved in learning Chinese. The main difficulty is the character system. Not only do you need to memorise a massive number of characters, characters themselves are not 'words.' Rather they act as building blocks and are used to construct words. Characters <em> do </em> carry with them implicit meaning. However, one character can have many many meanings; sometimes more than 10 distinct meanings. It might be said that characters are used to form words because when characters are paired to form words, their meaning is less ambiguous.
 
 My love for the language comes in part from the difficulty of it. The best litmus test for progress in Chinese learning is to pick up a book and see how much of it you can read. You notice that you need to check the dictionary less and less as your pool of mastered characters slowly grows.
+
+
+Click [here](https://wigdo.github.io/papyrus/) to return home.

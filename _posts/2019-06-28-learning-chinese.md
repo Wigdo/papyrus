@@ -6,7 +6,7 @@ comments: true
 external-url:
 categories: Chinese
 ---
-I was out at a bar in the city attending a language exchange event called [Mundo Lingo](https://www.facebook.com/groups/ML.Melbourne.CBD/) and a doctor asked me; he said: "what does it take to learn Chinese?".
+I was out at a bar in the city attending a language exchange event called [Mundo Lingo](https://www.facebook.com/groups/ML.Melbourne.CBD/) and a doctor asked me; he said: "what does it take to learn Chinese?"
 
 <p> And I said, "remembering 10,000 of anything is hard, it's a wonder that so many Chinese people are literate". </p>
 

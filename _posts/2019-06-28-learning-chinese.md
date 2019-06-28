@@ -18,7 +18,7 @@ I was out at a bar in the city attending a language exchange event called [Mundo
 "So how many do you know?"
 </p>
 
-<p> "hard to say, probably between 2500 and 3000." </p>
+<p> "Hard to say, probably between 2500 and 3000." </p>
 
 <p> He was learning French so I told him "By the end of a BA in French you can probably read Voltaire, with Chinese you probably wouldn't be able to read a newspaper. </p>
 

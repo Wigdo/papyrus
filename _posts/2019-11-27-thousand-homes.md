@@ -19,29 +19,35 @@ You can find a live version of the song [here](https://www.youtube.com/watch?v=g
 *Ten Thousand Distinct Homes*
 <p>
 She went through the August flood. Tiantai dumped its bottomless ideals.
-
+</p>
+<p>
 By the northern wind, by the reeds, she suddenly slept. The grasslands in her dream are boundless white.
-
+</p>
+<p>
 The train went all about as did her joys and sorrows.
 And it took her through every hometown.
 A small temporary solace.
-
+</p>
+<p>
 If you stand facing the rising sun is it possible to shake off yesterday's melancholy?
 Can feeble words communicate my every worry?
-
+</p>
+<p>
 If one day I lose my courage can I finish this journey?
 If you traverse the world, you still only have one home.
 The city's fluorescent lights illuminate the entire night's darkness.
-
+</p>
+<p>
 Not like that youthful fearless age of growing...
 She does not want much, it's just something different to everyone else
 Candle light refracted in the water comes towards me.
 Meet by chance but it's too short; not even enough time to wait for tea to cool.
 You throw away a habit, but voraciously stay beside me.
-
+</p>
+<p>
 If you stand facing the rising sun is it possible to shake off yesterday's melancholy?
 Can feeble words communicate my every worry?
-
+</p>
 
 ## Chinese Lyrics (original) 中文歌词（原版） ##
 *历历万乡*

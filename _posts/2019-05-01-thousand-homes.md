@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 历历万乡 - Ten Thousand Distinct Homes
-date: 2019-06-11 17:34
+date: 2019-10-27 11:54
 comments: true
 external-url:
 categories: Translation
@@ -49,7 +49,7 @@ Can feeble words communicate my every worry?
 
 
 ## Chinese Lyrics (original) 中文歌词（原版） ##
-* 历历万乡 
+* 历历万乡
 
 她住在七月的洪流上
 天台倾倒理想一万丈

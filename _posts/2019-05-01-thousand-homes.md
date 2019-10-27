@@ -8,7 +8,7 @@ categories: Translation
 ---
 
 Click [here](https://wigdo.github.io/papyrus/) to return home.
----
+
 After a friend suggesting I listen to [this](https://www.youtube.com/watch?v=w16wogicWFE) song, I decided to translate it. It is very difficult to make idiomatic Chinese sound like idiomatic English without completely changing the author's meaning. Here, I have tried to capture the feel of the original, and have been lost some of the meaning of the original for that purpose.  
 You can find my rough and ready translation below.
 

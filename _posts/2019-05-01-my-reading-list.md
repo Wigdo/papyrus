@@ -13,7 +13,7 @@ Click [here](https://wigdo.github.io/papyrus/) to return home.
 ## Completed books ##
 *  《活着》 余华 - To Live by Yu Hua
 
-  This is a story about a man named 福贵 (lit. 'Lucky') who loses his family fortune by gambling it away. But for Lucky, in retrospect, losing his family's fortune becomes a blessing in disguise as the Chinese Communist Party (共产党) comes to his village and executes the wealthy landowners there. It is a story of cruel hardship and suffering but reads as if it were a light-hearted story; Lucky himself (the narrator) faces adversity with fierce optimism
+  This is a story about a man named 福贵 (lit. 'Lucky') who loses his family fortune by gambling it away. But for Lucky, in retrospect, losing his family's fortune becomes a blessing in disguise as the Chinese Communist Party (共产党) comes to his village and executes the wealthy landowners there. It is a story of cruel hardship and suffering but reads as if it were a light-hearted story; Lucky himself (the narrator) faces adversity with fierce optimism.
 
 
 

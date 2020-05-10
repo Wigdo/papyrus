@@ -15,7 +15,7 @@ You can find my rough and ready translation below.
 
 ---
 
-## English Lyrics （英文歌词）##
+## English Lyrics （英文歌词）
 *Ten Thousand Distinct Homes*
 <p>
 She went through the August flood. Tiantai dumped its bottomless ideals.

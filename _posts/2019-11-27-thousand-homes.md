@@ -6,12 +6,13 @@ comments: true
 external-url:
 categories: Translation
 ---
-Click [here](https://wigdo.github.io/papyrus/) to return home.
+
 After a friend suggesting I listen to [this](https://www.youtube.com/watch?v=zlO7CGUdlmE&feature=share&fbclid=IwAR1Xeuzi8zBzVekePD1eS9QMSv3Mw4TsGZTFC_yMBqLhJ9PlizEJK8_gS-8) song (it starts 1:26) , I decided to translate it. It is very difficult to make idiomatic Chinese sound like idiomatic English without completely changing the author's meaning. Here, I have tried to capture the feel of the original, and have lost some of the meaning of the original for that purpose.  
 <p>
 You can find my rough and ready translation below.
-
 </p>
+<p> Click [here](https://wigdo.github.io/papyrus/) to return home. </p> 
+
 ---
 
 ## English Lyrics （英文歌词）

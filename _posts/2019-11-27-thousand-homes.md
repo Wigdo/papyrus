@@ -11,11 +11,11 @@ After a friend suggesting I listen to [this](https://www.youtube.com/watch?v=zlO
 <p>
 You can find my rough and ready translation below.
 </p>
-<p> Click [here](https://wigdo.github.io/papyrus/) to return home. </p> 
+<p> Click [here](https://wigdo.github.io/papyrus/) to return home. </p>
 
 ---
 
-## English Lyrics （英文歌词）
+## English Lyrics （英文歌词）##
 *Ten Thousand Distinct Homes*
 <p>
 She went through the August flood. Tiantai dumped its bottomless ideals.

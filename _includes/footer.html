@@ -9,16 +9,7 @@
         <h2>what is this</h2>
         <p>{{ site.description }}</p>
       </div>
-      <div class="col-sm-4">
-        <h2>where am i</h2>
-          {% if site.email %}
-          <div>
-            <a href="mailto:{{ site.email }}">
-              <span class="username">{{ site.email }}</span>
-            </a>
-          </div>
-          {% endif %}
-          {% if site.github_username %}
+      
           <div>
             <a href="https://github.com/{{ site.github_username }}">
               <span class="username">github//{{ site.github_username }}</span>

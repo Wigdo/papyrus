@@ -4,12 +4,12 @@ author: "Ari Wigdorowitz"
 description: "I built this website in June 2019 using Jekyll 'Papyrus' which is shared under a 'creative commons license'. Here you can find some of my ramblings. "
 keywords: "Philosophy, Law, Chinese, Language"
 biography: "My name is Ari and welcome to my blog."
-colophon: "© 2019"
+colophon: "The expression which pertains to the words used on the various pages of this website, including articles and pieces of poetry are protected under the Copyright Act 1968 (Cth) and various other international instruments."
 
 baseurl: "/papyrus"
 url: "http://hugosereno.eu"
 
-linkedin_username: 
+linkedin_username:
 google-analytics: UA-141809411-1
 
 simple_search: http://google.com/search

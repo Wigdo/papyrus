@@ -14,5 +14,5 @@ google-analytics: UA-141809411-1
 
 simple_search: http://google.com/search
 markdown: kramdown
-highlighter: maroon
+highlighter: rouge
 permalink: /blog/:year/:month/:day/:title/
